@@ -15,3 +15,100 @@ body {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text-shadow-neon {
+  text-shadow: rgba(104, 37, 219, 0.639) 5px 0 75px;
+}
+
+@layer blurInLayer {
+  .blurInAnimation {
+    animation-name: blurInKeyframes;
+    animation-duration: 2s;
+  }
+  @keyframes blurInKeyframes {
+    0% {
+      filter: blur(5px);
+      transform: translateY(3rem);
+    }
+    100% {
+      filter: blur(0px);
+      transform: translateY(0rem);
+    }
+  }
+}
+
+@layer fadeInLayer {
+  .fadeInAnimation {
+    animation-name: fadeInKeyframes;
+    animation-duration: 4s;
+  }
+  @keyframes fadeInKeyframes {
+    0% {
+      filter: opacity(0);
+    }
+    50% {
+      filter: opacity(0);
+    }
+    100% {
+      filter: opacity(1);
+    }
+  }
+}
+
+@layer marqueeAnimations {
+  .marqueeAnimation1 {
+    animation-name: marqueeAnimationKeyframesToLeft;
+    animation-duration: 40s;
+    animation-timing-function: linear;
+    animation-delay: -40s;
+    animation-iteration-count: infinite;
+  }
+  .marqueeAnimation2 {
+    animation-name: marqueeAnimationKeyframesToLeft2;
+    animation-duration: 40s;
+    animation-delay: -20s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+  @keyframes marqueeAnimationKeyframesToLeft {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @keyframes marqueeAnimationKeyframesToLeft2 {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-200%);
+    }
+  }
+}
+
+.blurIn {
+  @apply blurInAnimation;
+}
+.fadeIn {
+  @apply fadeInAnimation;
+}
+
+.bg-grid {
+  background-size: 40px 40px;
+  background-image: linear-gradient(
+      to right,
+      rgba(62, 65, 241, 0.2) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, rgba(65, 56, 230, 0.2) 1px, transparent 1px);
+}
+
+.marquee1 {
+  @apply marqueeAnimation1;
+}
+
+.marquee2 {
+  @apply marqueeAnimation2;
+}
