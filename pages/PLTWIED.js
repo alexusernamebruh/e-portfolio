@@ -165,7 +165,16 @@ function PLTWIED() {
           <div className='mt-6'>
             <div className='font-semibold text-2xl text-white'>
               In this class, we had to research a career that we could possibly
-              go into. Below is my project.
+              go into. I researched possible careers and their salaries, I also
+              researched some colleges and some specs that are needed to get in
+              the colleges. I now know and understand different careers and
+              colleges I can head into. I liked this project because it allowed
+              me a better look into my future. This project was significant in
+              expanding my knowledge because I now know what I should aim for
+              and what I shouldn't. This project will stick with me for years to
+              come because I would like to attend a college one day and this
+              project helped me decide which I might want to go to. Below is my
+              project.
             </div>
             <div className='my-8 flex justify-center'>
               <iframe
@@ -301,10 +310,17 @@ function PLTWIED() {
                   Activity 1.1.5. Design a game
                 </div>
                 <div className='font-semibold text-2xl mt-2 text-white'>
-                  In this activity, we learned how to apply the design process
-                  to creatively solve a problem. We created a carnival game with
-                  the new skills we have learned in this unit, below is my
-                  presentation.
+                  In this project, we learned how to apply the design process to
+                  creatively solve a problem. We created a carnival game with
+                  the new skills we have learned in this unit. I liked this
+                  project because it was fun and exciting to do, some things
+                  that will stick with me is the trial and error it took to make
+                  our design better. We now know and understand how to make a
+                  game that is fun and exciting but still profitable. This
+                  project helped us expand our knowledge because we learned how
+                  to make a game that is fun and still profitable. Some main
+                  take-aways is how to balance out profit and customer
+                  happiness. Below is our presentation.
                 </div>
                 <div className='my-8 flex justify-center'>
                   <iframe
@@ -407,7 +423,17 @@ function PLTWIED() {
                 </div>
                 <div className='font-semibold text-2xl mt-2 text-white'>
                   In this project we used all our skills learned from the
-                  previous units to create a keychain in fusion360. Below is our
+                  previous units to create a keychain in fusion360. I liked this
+                  assignment because it gave us a chance to apply our learning
+                  into real world applications. After this project, we now know
+                  and understand how to create a keychain, how to make it
+                  visually appealing and how to follow constraints and criteria
+                  better. This project is significant in expanding my knowledge
+                  as I learned extra skills during this project. This project
+                  will stick with me years to come because it is the first real
+                  world application(in my opinion) that we thoroughly used our
+                  skills we have learned, it also helped us with marketing and
+                  what customers should or should not expect. Below is our
                   presentation.
                 </div>
                 <div className='my-auto flex justify-center'>
@@ -541,11 +567,20 @@ function PLTWIED() {
               </div>
               <div>
                 <div className='font-semibold text-3xl mt-4 text-white'>
-                  Project 1.3.7. Redesign a Protective case
+                  Project 1.3.7. Design a Protective case
                 </div>
                 <div className='font-semibold text-2xl mt-2 text-white'>
                   In this project, we used all of the skills we learned so far
-                  to design a protective case. Below is our project.
+                  to design a protective case. This will stick with me years to
+                  come because we used the skills we learned in fusion360 to
+                  help create our project, these skills are one of the most
+                  important and include joints and hinges. This project was
+                  significant in expanding my knowledge because it helped me
+                  apply my skills and I learned other skills along the way, such
+                  as how to protect something better. I now understand and know
+                  how to effectively design a protective case. I liked this
+                  assignment because it was a challenge to do, our first
+                  prototype was a bust. Below is our project.
                 </div>
                 <div className='my-auto flex justify-center'>
                   <iframe
@@ -598,8 +633,14 @@ function PLTWIED() {
                   In this activity, we worked with a team to create a slideshow
                   presentation and class handout that will teach our classmates
                   about my teams assigned topic, our topic was snap fit joints.
-                  Below is the handout(south western school district people
-                  logged into canva can view) and our presentation.
+                  I liked this project because we got to do public speaking.
+                  Some main takeaways is how to do public speaking, and how to
+                  design handouts. We now know how to do public speaking and how
+                  snap-fit joints work. This helped expand my knowledge because
+                  I learned new skills such as how to design a handout and how
+                  to use snap-fit joints. Below is the handout(south western
+                  school district people logged into canva can view) and our
+                  presentation.
                 </div>
                 <a
                   href='https://www.canva.com/design/DAF1AjmzeN0/i_g2l5QWdodpLEHWtD5xeA/edit?utm_content=DAF1AjmzeN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
@@ -646,7 +687,14 @@ function PLTWIED() {
                 </div>
                 <div className='font-semibold text-2xl mt-2 text-white'>
                   In this project, we collected feedback from our previous
-                  protective case and redesigned it.
+                  protective case and redesigned it. We learned how to reiterate
+                  and design things, and how to take feedback and evaluate what
+                  we could have done better. I liked this project because it
+                  shows a real world application as you reiterate on a design
+                  and improve it. Some things that will stick with me is how to
+                  effectively take feedback and fix problems. We now know and
+                  understand how to reiterate and redesign. Below is our
+                  presentation for our project.
                 </div>
                 <div className='my-auto flex justify-center'>
                   <iframe
@@ -764,7 +812,14 @@ function PLTWIED() {
                 </div>
                 <div className='font-semibold text-2xl mt-2 text-white'>
                   In this project we reverse engineered a automoblox car and
-                  remade it in fusion360
+                  remade it in fusion360. I liked this project because for the
+                  first time it looked really professional. Some main takeaways
+                  are how to do professional technical drawings, and assembly
+                  and joints in fusion360. This was significant in expanding my
+                  knowledge because it helped us perfect our skills and make it
+                  look professional. We now know and understand how to make
+                  professional drawings. Below is the exploded view of the car
+                  we reverse engineering and remade in fusion360.
                 </div>
                 <div className='flex justify-center my-4'>
                   <img src='./car.png' />
@@ -792,18 +847,24 @@ function PLTWIED() {
                   Activity 2.2.8 Design an Integrated Assembly
                 </div>
                 <div className='font-semibold text-2xl mt-2 text-white'>
-                  In this project we learned how to deﬁne measurable visual,
+                  In this project we learned how to define measurable visual,
                   functional, and structural design requirements (criteria) and
                   realistic constraints against which solution alternatives can
-                  be evaluated and optimized, apply eﬀective techniques and
+                  be evaluated and optimized, apply effective techniques and
                   appropriate guidelines to generate multiple creative ideas and
                   solutions to a problem, carry out a plan to compare competing
                   solution ideas and justify the selection of a solution path
                   with respect to design requirements and constraints, and
-                  present information, ﬁndings, and supporting evidence clearly,
-                  concisely, and logically in writing in which the development,
-                  organization, and style are appropriate to task, purpose, and
-                  audience. Below is our presentation.
+                  present information, findings, and supporting evidence
+                  clearly, concisely, and logically in writing in which the
+                  development, organization, and style are appropriate to task,
+                  purpose, and audience. I liked this because it was another
+                  real world application that we might encounter. This project
+                  was significant in expanding my knowledge because it used all
+                  the skills we have learned over this course and learned how to
+                  apply it. A main takeaways are how to combine 3d printed and
+                  non 3d printed parts to make a functioning system. Below is
+                  our presentation.
                 </div>
                 <div className='flex justify-center my-4'>
                   <iframe

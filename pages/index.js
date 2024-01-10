@@ -151,8 +151,10 @@ function Home() {
           <p className='font-extrabold text-5xl text-white'>About me</p>
           <div className='mt-6'>
             <p className='font-semibold text-2xl text-white'>
-              Hi, my name is Alex, I am a current student at south western high
-              school.
+              My name is Alex, I am a current student at south western high
+              school, as of the time of making, I am a current freshman and took
+              PLTW IED in the fall semester. I have multiple hobbies, such as
+              basketball, music, computer science, and robotics. 
             </p>
           </div>
         </div>
